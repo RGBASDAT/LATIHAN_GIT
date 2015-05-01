@@ -1,4 +1,3 @@
 COba di edit
 aku alwan
-aku nanda
-~~
+edit lagi nanda
